@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T20:09:19+03:00",
+  "updatedAt": "2026-11-12T12:15:58+03:00",
   "platforms": [
     {
       "id": "instagram",
@@ -22,5 +22,39 @@
       "short": "YT"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "id": "vk-v-236496839_456239020",
+      "platform": "vk",
+      "type": "clip",
+      "title": "Хорошо, что перезимовали!",
+      "thumbnail": "thumbs/vk-v-236496839_456239020.jpg",
+      "url": "https://vk.com/clip-236496839_456239020",
+      "publishedAt": "2026-03-10",
+      "stats": {
+        "views": 152896,
+        "likes": 504,
+        "comments": 28,
+        "shares": 40
+      },
+      "viewsHistory": [
+        {
+          "date": "2026-11-02",
+          "views": 152896
+        },
+        {
+          "date": "2026-11-03",
+          "views": 152896
+        },
+        {
+          "date": "2026-11-04",
+          "views": 152896
+        },
+        {
+          "date": "2026-11-05",
+          "views": 152896
+        }
+      ]
+    }
+  ]
 }
