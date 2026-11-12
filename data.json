@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:16:23+03:00",
+  "updatedAt": "2026-11-12T12:16:32+03:00",
   "platforms": [
     {
       "id": "instagram",
@@ -53,6 +53,39 @@
         {
           "date": "2026-11-05",
           "views": 21355
+        }
+      ]
+    },
+    {
+      "id": "vk-v-236496839_456239024",
+      "platform": "vk",
+      "type": "clip",
+      "title": "Много или мало? 🤪",
+      "thumbnail": "thumbs/vk-v-236496839_456239024.jpg",
+      "url": "https://vk.com/clip-236496839_456239024",
+      "publishedAt": "2026-03-13",
+      "stats": {
+        "views": 5627,
+        "likes": 20,
+        "comments": 0,
+        "shares": 1
+      },
+      "viewsHistory": [
+        {
+          "date": "2026-11-02",
+          "views": 5625
+        },
+        {
+          "date": "2026-11-03",
+          "views": 5625
+        },
+        {
+          "date": "2026-11-04",
+          "views": 5627
+        },
+        {
+          "date": "2026-11-05",
+          "views": 5627
         }
       ]
     },
